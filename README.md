@@ -1,4 +1,9 @@
 # NewTicketMachine
+
+This project was given by Mr. Iseral Mangisto
+
+Prepared by Dawit Belay (QA Automation student)
+
 * Ticket Machine Exercise
 This device asks you what activity you've come to complete and gives you a turn number based
 on the activity you chose.
